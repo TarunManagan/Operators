@@ -1,6 +1,6 @@
 # Operators
 An operator is a symbol that operates on a value to perform specific mathematical or logical computations. They form the foundation of any programming language. 
-In C++, we have built-in operators to provide the required functionality.Operators in C++ can be classified into 6 types:
+In C++, we have built-in operators to provide the required functionality. Operators in C++ can be classified into 6 types:
 
 * Arithmetic Operators
 * Relational Operators
@@ -52,8 +52,8 @@ a /= b is 6 --> Divide and Assignment Operator
 # EXPERIMENT NO: 1
 
 AIM: SET and RESET a value
-Theory: We can binary AND and OR operator to SET and RESET a value
-ALGORITH:
+Theory: We can binary AND and OR operators to SET and RESET a value
+ALGORITHM:
 
 --> STEP 1: START
 --> STEP 2: Declare and initialize a variable of type int
@@ -61,17 +61,28 @@ ALGORITH:
 --> STEP 4: Print the output
 --> STEP 5: STOP
 
+OUTPUT
+Enter the bit to be set: 6
+Enter the bit to be reset: 1
+Set bit - 114
+Reset bit - 48
+
 # EXPERIMENT NO: 2
 
 AIM: Application of Left and Right shift
 Theory: We can binary Left and Right shift operator 
-ALGORITH:
+ALGORITHM:
 
 --> STEP 1: START
 --> STEP 2: Declare and initialize a variable of type int
 --> STEP 3: Use Binary Left and Right shift operator
 --> STEP 4: Print the output
 --> STEP 5: STOP
+
+OUTPUT:
+Left binary shift value is: 24
+Right binary shift value is: 6
+
 
 
 
