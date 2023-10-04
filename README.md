@@ -1,3 +1,6 @@
+# Name: S.Tarun Managan
+# PRN: 22070123118
+
 # Operators
 An operator is a symbol that operates on a value to perform specific mathematical or logical computations. They form the foundation of any programming language. 
 In C++, we have built-in operators to provide the required functionality. Operators in C++ can be classified into 6 types:
